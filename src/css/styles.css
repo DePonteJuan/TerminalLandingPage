@@ -124,27 +124,3 @@ main ul li:hover {
     margin-bottom: 3%;
   }
 }
-
-@media screen and (max-width: 250px) {
-  h1 {
-    text-align: center;
-    font-size: 2rem;
-  }
-  h3 {
-    text-align: center;
-    font-size: 0.8rem;
-  }
-  a img {
-    width: 75%;
-  }
-  nav {
-    text-align: center;
-  }
-  main ul {
-    text-align: center;
-    flex-direction: column;
-  }
-  main ul li {
-    margin-bottom: 3%;
-  }
-}
